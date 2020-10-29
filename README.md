@@ -5,7 +5,7 @@ The following wheels have been compiled on a raspberry pi 4 8GB with Ubuntu inst
 uname -a
 Linux raspberrypi 5.8.0-1006-raspi #9-Ubuntu SMP PREEMPT Fri Oct 16 12:55:30 UTC 2020 aarch64 aarch64 aarch64 GNU/Linux
 ```
-- Apache Arrow: built following instructions from the Apache official (https://github.com/apache/arrow/blob/master/docs/source/developers/python.rst)[repo]
+- Apache Arrow 3.0.0: built following instructions from the Apache official [repo](https://github.com/apache/arrow/blob/master/docs/source/developers/python.rst)
 
 
 
