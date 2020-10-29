@@ -2,8 +2,18 @@
 Wheels built on Raspberry Pi 4 8GB for python 3.8.6
 
 ## Description <a name="description"></a>
-The following wheels have been compiled on a raspberry pi 4 8GB with Ubuntu installed aarch64
+The following wheels have been compiled on a Raspberry Pi 4 8GB with Ubuntu 20.10
 ```
+hostnamectl
+Static hostname: raspberrypi
+Icon name: computer
+Machine ID: ...
+Boot ID: ...
+Operating System: Ubuntu 20.10
+Kernel: Linux 5.8.0-1006-raspi
+Architecture: arm64
+
+
 uname -a
 Linux raspberrypi 5.8.0-1006-raspi #9-Ubuntu SMP PREEMPT Fri Oct 16 12:55:30 UTC 2020 aarch64 aarch64 aarch64 GNU/Linux
 ```
