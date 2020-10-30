@@ -20,8 +20,8 @@ Linux raspberrypi 5.8.0-1006-raspi #9-Ubuntu SMP PREEMPT Fri Oct 16 12:55:30 UTC
 - Apache Arrow 3.0.0: built following instructions from the Apache official [repo](https://github.com/apache/arrow/blob/master/docs/source/developers/python.rst).
 - Pytorch 1.7.0: instructions
 ```
-sudo apt-get install python3-numpy python3-wheel python3-setuptools python3-future python3-yaml python3-six python3-requests python3-pip python3-pillow
-pip install pyyaml wheel numpy
+sudo apt-get install python3-numpy python3-wheel python3-setuptools python3-future python3-yaml python3-six python3-requests python3-pip python3-pillow openmpi-bin
+pip install pyyaml wheel numpy ninja setuptools cmake cffi typing_extensions future six requests dataclasses
 pip install torch-1.7.0a0-cp37-cp37m-linux_aarch64.whl
 pip install torchvision-0.8.0a0+45f960c-cp37-cp37m-linux_aarch64.whl
 ```
@@ -29,5 +29,5 @@ pip install torchvision-0.8.0a0+45f960c-cp37-cp37m-linux_aarch64.whl
 
 ## Contents <a name="contents"></a>
 - pyarrow-3.0.0.dev55+gf6501a5ee-cp38-cp38-linux_aarch64.whl
-- torch-1.7.0a0-cp37-cp37m-linux_aarch64.whl
-- torchvision-0.8.0a0+45f960c-cp37-cp37m-linux_aarch64.whl
+- torch-1.7.0a0-cp37-cp37m-linux_aarch64.whl [download here](https://drive.google.com/file/d/1nYbF8AusjemBqW_jmw3ENXKGVWFSVTsr/view?usp=sharing)
+- torchvision-0.8.0a0+45f960c-cp37-cp37m-linux_aarch64.whl [download here](https://drive.google.com/file/d/1rpmMtl3F2J397JDDqyj7uDJYvdEF-Jwl/view?usp=sharing)
