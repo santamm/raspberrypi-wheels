@@ -31,7 +31,7 @@ pip install torchvision-0.7.0a0+78ed10c-cp37-cp37m-linux_aarch64.whl
 - torch-1.6.0a0+b31f58d-cp37-cp37m-linux_aarch64.whl [download here](https://drive.google.com/file/d/1ooH36atI6PpuS4rWTR_3tm7Ul87sOveA/view?usp=sharing)
 - torchvision-0.7.0a0+78ed10c-cp37-cp37m-linux_aarch64.whl
 - blis-0.4.1-cp37-cp37m-manylinux2014_aarch64.whl 
-- spacy-2.2.4-cp37-cp37m-manylinux2014_aarch64.whl
+- spacy-2.2.4-cp37-cp37m-manylinux2014_aarch64.whl [download here](https://drive.google.com/file/d/1uVHxQ8dqrKh80DCc3etJTjhlNiVzhdba/view?usp=sharing)
 
 ## Fastai Installation
 Pytorch, torchvision, blis and spacy have to be installed from wheels as packages are not available for this platform.
