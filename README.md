@@ -36,7 +36,7 @@ pip install torchvision-0.7.0a0+78ed10c-cp37-cp37m-linux_aarch64.whl
 ## Fastai Installation
 Pytorch, torchvision, blis and spacy have to be installed from wheels as packages are not available for this platform.
 ```
-sudo apt install libatlas3-basesudo 
+sudo apt install libatlas3-basesudo libjpeg-dev zlib1g-dev
 pip install numpy
 python -m pip install Pillow==6.1
 pip install torch-1.6.0a0+b31f58d-cp37-cp37m-linux_aarch64.whl 
